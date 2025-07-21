@@ -1,6 +1,7 @@
 body {
     background-image: url(https://i.pinimg.com/736x/e9/94/04/e994041fbd854407f2a6087cb1c4478e.jpg); 
     font-family: Geneva;
+    font-size: 16px; 
 }
 
 h1, h2, h3, h4{
@@ -56,11 +57,11 @@ div {
 }
 
 .box {
-  flex: 1;
-  max-width: 500px;
+  flex: 1 1 300px;
+  max-width: 500px;   
   padding: 1rem;
-  flex-wrap: wrap;
 }
+
 
 .container-fluid {
   display: flex;
@@ -68,3 +69,4 @@ div {
   gap: 2rem;
   max-width: 1200px;
 }
+
