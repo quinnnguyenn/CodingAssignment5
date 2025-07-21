@@ -59,6 +59,11 @@ div {
     box-sizing: border-box
 }
 
+.author {
+  font-weight: bold;
+}
+
+
 .row {
   display: flex;
   gap: 1rem;
