@@ -1,0 +1,68 @@
+body {
+    background-image: url(../images/background.jpeg); 
+    font-family: 'Lucida Sans';
+}
+
+h1 {
+    color: rgb(65, 40, 30);
+    font-family: 'Franklin Gothic';
+}
+
+h2 {
+    color: rgb(75, 40, 30);
+    font-family: 'Franklin Gothic';
+}
+
+h3 {
+    color: rgb(85, 40, 30);
+    font-family: 'Franklin Gothic';
+}
+
+h4 {
+    color: rgb(95, 40, 30);
+    font-family: 'Franklin Gothic';
+}
+
+figcaption {
+    color: rgb(92, 82, 82);
+}
+
+p {
+    color: rgb(92, 82, 82);
+}
+
+a {
+    color: rgb(92, 82, 82);
+}
+
+ul {
+    color: rgb(92, 82, 82);
+}
+
+li {
+    color: rgb(92, 82, 82);
+}
+
+ol {
+    color: rgb(92, 82, 82);
+}
+
+hr {
+    color: white;
+}
+
+fieldset {
+    color: rgb(92, 82, 82);
+}
+
+div {
+    margin: 10px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper div {
+    flex: 1;
+}
