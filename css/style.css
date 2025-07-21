@@ -83,3 +83,8 @@ fieldset {
   border: 1px solid;
   padding: 1rem;
 }
+
+.row second-row {
+    display: flex;
+    flex-direction: column;
+}
