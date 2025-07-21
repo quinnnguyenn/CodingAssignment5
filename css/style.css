@@ -71,8 +71,6 @@ div {
   min-width: 250px;
   padding: 1rem;
   flex-wrap: wrap;
-  border: 1px solid #ddd;
-  background-color: #fff;
 }
 
 .container-fluid {
