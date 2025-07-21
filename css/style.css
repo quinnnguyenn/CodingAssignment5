@@ -4,40 +4,40 @@ body {
 }
 
 h1, h2, h3, h4{
-    color: rgb(65, 40, 30);
+    color: black;
     font-family: 'Lucida Sans Unicode';
 }
 
 figcaption {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 p {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 a {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 ul {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 li {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 ol {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 hr {
-    color: white;
+    color: black;
 }
 
 fieldset {
-    color: rgb(92, 82, 82);
+    color: rgb(45, 44, 57);
 }
 
 div {
