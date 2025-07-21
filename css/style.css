@@ -55,36 +55,16 @@ fieldset {
     color: rgb(92, 82, 82);
 }
 
-.wrapper {
-  margin: 0;
+div {
+    box-sizing: border-box
 }
 
-.header {
-  padding: 1rem;
+[class*="col"] {
+    float: left;
 }
 
-.footer {
-  padding: 1rem;
-}
-
-.row {
-  padding: 1rem;
-}
-
-.second-row,
-.third-row {
-  display: flex;
-  gap: 1rem;
-}
-
-.second-row .box,
-.third-row .box {
-  flex: 1;
-  border: 1px solid;
-  padding: 1rem;
-}
-
-.row second-row {
-    display: flex;
-    flex-direction: column;
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
 }
