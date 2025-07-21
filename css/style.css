@@ -59,3 +59,9 @@ div {
     box-sizing: border-box
 }
 
+.row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
