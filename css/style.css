@@ -55,14 +55,27 @@ fieldset {
     color: rgb(92, 82, 82);
 }
 
-div {
-    margin: 10px;
+
+wrapper {
+  margin: 0;
+  padding: 0;
 }
 
-.wrapper {
-    display: flex;
+.header,
+.footer {
+  text-align: center;
+  padding: 1rem;
 }
 
-.wrapper div {
-    flex: 1;
+.row {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.top-row .box,
+.middle-row .box {
+  flex: 1;
+  padding: 1rem;
+  border: 1px;
 }
