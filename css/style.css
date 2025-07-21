@@ -57,7 +57,7 @@ div {
 
 .box {
   flex: 1;
-  max-width: 400px;
+  max-width: 500px;
   padding: 1rem;
   flex-wrap: wrap;
 }
